@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2017 <strong> Gym </strong></footer>
